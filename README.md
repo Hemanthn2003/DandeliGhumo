@@ -12,7 +12,7 @@ This project showcases a beautiful UI for resorts, allowing visitors to explore 
 Example:
 
 ```
-https://your-resort-website.vercel.app
+https://dandeli-ghumo.vercel.app/
 ```
 
 ---
